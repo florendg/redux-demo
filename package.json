@@ -1,0 +1,17 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Floren de Gier",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.5.0",
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.1",
+    "bulma": "^0.9.4",
+    "lit": "^2.2.4"
+  }
+}
